@@ -1,0 +1,19 @@
+---
+title: "Supply Chain Explore"
+format:
+    html:
+        toc: true
+        embed-resources: true
+        code-copy: true
+        highlight-style: github
+        code-fold: true
+        warnings: false
+        page-layout: full
+execute:
+  echo: true
+---
+##### **Authors:** Mia Mayerhofer
+
+## Introduction
+
+## Conclusion

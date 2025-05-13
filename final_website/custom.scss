@@ -1,0 +1,63 @@
+/*-- scss:defaults --*/
+$primary-color: #F1F0DA;
+
+/*-- scss:rules --*/
+p {
+    width: 1200px;
+}
+
+fig-1{
+    width: 900px;
+}
+
+fig-2{
+    width: 900px;
+}
+
+fig-4{
+    width: 900px;
+}
+body {
+    background-color: $primary-color;
+    width: 90dvw;
+  }   
+.quarto-title{
+    position: fixed;
+    top: 20px;
+    left: 0px;
+    color: transparent;
+  }
+  
+.level5{
+    position: relative;
+    top: 5px;
+    left: 0px;
+    padding-bottom: 5px;
+}
+.level3{
+    position: relative;
+    top: 5px;
+    left: 0px;
+}
+
+.sidebar{
+    position: fixed;
+    width: 150px;
+    right: 0px;
+    float: right;
+}
+
+header{
+    background: url('./header.png') no-repeat;
+    background-size: cover;
+    top: -40px;
+    left: -60px;
+    height: 350px;
+    width: 1450px;
+}
+
+//topOffset --> change to 375 in html (its js so cause its from quatro rendering cant do here)
+
+
+
+

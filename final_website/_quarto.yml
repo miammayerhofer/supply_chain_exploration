@@ -1,0 +1,12 @@
+project:
+  type: website
+
+website:
+  repo-url: https://github.com/miammayerhofer/supply_chain_exploration.git
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    toc: true
+
